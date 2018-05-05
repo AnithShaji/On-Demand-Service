@@ -1,0 +1,30 @@
+Car wash
+
+	choose service satation
+	send request to service station
+	pay charges for washing
+	ratings
+
+Food delivery
+
+	choose food
+	check ingredients
+	choose manufacturer /hotel/restaurent
+	send order
+	pay charges
+	feedback and ratings
+
+Gift delivery
+	
+	search a gift of your choice	
+	put the order
+	pay charges
+	feedback	
+
+	
+	
+	
+
+
+
+
